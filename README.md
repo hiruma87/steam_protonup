@@ -10,6 +10,7 @@
    sudo apt install steam
    ```
    > You can also download the .deb file from steam page [Steam Store](https://store.steampowered.com/about/)
+   
    **Fedora**
    ```bash
    sudo dnf install steam
