@@ -28,7 +28,32 @@ ___
 
 **Install Flatpak**
 
-Arch Linux
+**Arch Linux**
+
+Install flatpak by
 ```bash
 sudo pacman -S flatpak
 ```
+> May need a reboot
+___
+**Debian**
+
+Install flatpak by
+```bash
+sudo apt install flatpak
+```
+Install plugin
+For gnome user
+```bash
+sudo apt install gnome-software-plugin-flatpak
+```
+For KDE user
+```bash
+sudo apt install plasma-discover-backend-flatpak
+```
+Lastly add flatpak repository
+```bash
+flatpak remote-add --if-not-exists flathub https://dl.flathub.org/repo/flathub.flatpakrepo
+```
+___
+**Fedora**
