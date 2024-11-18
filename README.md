@@ -19,7 +19,7 @@
 2. Login
 3. Exit steam
 > The reason for above steps so that steam will create a .steam folder at $HOME folder
-
+___
 ## Setting up proton-GE
 ### Install protonup-qt
 - Easiest way to install protonup for steam is via protonup-qt
