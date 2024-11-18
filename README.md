@@ -19,7 +19,7 @@
 1. Run the newly installed steam
 2. Login
 3. Exit steam
-> The reason for above steps so that steam will create a .steam folder at $HOME folder
+> The reason for above steps are for steam to create a .steam folder at $HOME folder
 ___
 ## Setting up proton-GE
 ### Install protonup-qt
