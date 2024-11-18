@@ -1,2 +1,2 @@
 # steam_protonup
-[pupgui](pupgui2-dark.png?raw=true)
+![pupgui](pupgui2-dark.png)
